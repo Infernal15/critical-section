@@ -1,0 +1,10 @@
+C:\Users\vlad9\source\repos\Crit section\Crit section\bin\Debug\Crit section.exe.config
+C:\Users\vlad9\source\repos\Crit section\Crit section\bin\Debug\Crit section.exe
+C:\Users\vlad9\source\repos\Crit section\Crit section\bin\Debug\Crit section.pdb
+C:\Users\vlad9\source\repos\Crit section\Crit section\obj\Debug\Crit section.csprojAssemblyReference.cache
+C:\Users\vlad9\source\repos\Crit section\Crit section\obj\Debug\Crit_section.Properties.Resources.resources
+C:\Users\vlad9\source\repos\Crit section\Crit section\obj\Debug\Crit section.csproj.GenerateResource.cache
+C:\Users\vlad9\source\repos\Crit section\Crit section\obj\Debug\Crit section.csproj.CoreCompileInputs.cache
+C:\Users\vlad9\source\repos\Crit section\Crit section\obj\Debug\Crit section.exe
+C:\Users\vlad9\source\repos\Crit section\Crit section\obj\Debug\Crit section.pdb
+C:\Users\vlad9\source\repos\Crit section\Crit section\obj\Debug\Crit_section.Create.resources
